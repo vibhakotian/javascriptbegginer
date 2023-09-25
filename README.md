@@ -6,4 +6,5 @@ Projects          | Links
 -------------     | -------------
 Color Flipper     | (https://vibhakotiancolorflipper.w3spaces.com/)
 StopWatch         | Content Cell
+Counter           |
        
