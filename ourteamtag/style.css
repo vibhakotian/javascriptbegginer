@@ -1,0 +1,26 @@
+img {  
+    width: 200px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border-radius: 80%;
+    }  
+
+.moto{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 150px;
+    -webkit-box-shadow: -18px 5px 15px 5px #000000; 
+    box-shadow: -18px 5px 15px 5px white;
+    color: white;
+}
+.hea{
+    color:white;
+
+}
+h1{
+    text-align: center;
+    text-underline-position: below;
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/43/a3/87/43a387a16ebbb519b692d7efc3b598f8.jpg");
+}
